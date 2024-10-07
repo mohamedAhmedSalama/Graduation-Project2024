@@ -1,3 +1,3 @@
 # Graduation-Project2024
 
-## Driver Monitoring and Enhanced child safety in Vehicles
+## Driver Monitoring and Enhanced Child Safety in Vehicles

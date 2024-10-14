@@ -33,7 +33,3 @@ This repository contains the source code and documentation for my graduation pro
 - MCP 2515 CAN transceiver for network communication.
 - LEDs and buzzer for visual and audible alerts.
 
-## Installation and Setup
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/driver-monitoring-child-safety.git

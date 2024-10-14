@@ -1,3 +1,3 @@
 # Graduation-Project
 
-## Embedded-part
+## GUI
